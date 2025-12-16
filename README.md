@@ -154,6 +154,6 @@ Model explanations were translated into actionable HR strategies:
 
 ---
 
-## Thank you for exploring the Jobsatisfaction_MLProject! 🎉
+## Thank you for exploring the human-centered-hr-ai! 🎉
 
 - **If you have any questions or suggestions, feel free to open an issue or reach out.** 💬 📬
