@@ -92,3 +92,23 @@ source venv/bin/activate
 ```bash
 pip install numpy pandas scipy matplotlib seaborn plotly scikit-learn xgboost imbalanced-learn shap lime lifelines
 ```
+
+---
+
+
+## 🌐 Deployment Notes
+
+- The project outputs are designed to be used as static artifacts.
+- No server-side Python execution is required.
+- All computations are performed locally before generating final outputs.
+
+---
+
+## 📌 Reproducibility Guidelines
+
+To ensure consistent and reproducible results:
+- Use the same Python version
+- Install the listed libraries in a clean environment
+- Set random seeds where applicable
+- Run the notebook sequentially from start to finish
+
