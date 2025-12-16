@@ -112,3 +112,11 @@ To ensure consistent and reproducible results:
 - Set random seeds where applicable
 - Run the notebook sequentially from start to finish
 
+---
+
+## 📬 Support & Troubleshooting
+
+If environment-related issues occur:
+- Confirm Python is correctly installed and accessible
+- Verify successful installation of all listed libraries
+- Some libraries (such as xgboost and shap) may require additional system dependencies depending on the operating system
