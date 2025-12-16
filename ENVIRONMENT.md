@@ -82,3 +82,13 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
+```bash
+# macOS / Linux
+source venv/bin/activate
+```
+
+3️⃣ Install required libraries
+
+```bash
+pip install numpy pandas scipy matplotlib seaborn plotly scikit-learn xgboost imbalanced-learn shap lime lifelines
+```
