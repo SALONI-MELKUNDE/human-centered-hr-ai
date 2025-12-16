@@ -35,3 +35,33 @@ The project was developed and tested using:
 - Python 3.9 or higher (Recommended: Python 3.9 or Python 3.10)
 
 ---
+
+## 📦 Required Python Libraries
+
+Core Data & Numerical Computing
+
+- numpy
+- pandas
+- scipy
+
+Data Visualization
+
+- matplotlib
+- seaborn
+- plotly
+
+Machine Learning
+
+- scikit-learn
+- xgboost
+- imbalanced-learn
+
+Explainable AI (XAI)
+
+- shap
+- lime
+
+Survival Analysis
+
+- lifelines
+
