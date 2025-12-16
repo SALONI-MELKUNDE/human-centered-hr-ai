@@ -65,3 +65,20 @@ Survival Analysis
 
 - lifelines
 
+---
+
+## ⚙️ Local Environment Setup
+
+1️⃣ Create a virtual environment
+
+```bash
+python -m venv venv
+```
+
+2️⃣ Activate the virtual environment
+
+```bash
+# Windows
+venv\Scripts\activate
+```
+
