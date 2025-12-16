@@ -23,3 +23,15 @@ cd human-centered-hr-ai
 ```
 
 ---
+
+Ensure Git is installed on your system before running the above commands.
+
+---
+
+## 🐍 Python Version
+
+The project was developed and tested using:
+
+- Python 3.9 or higher (Recommended: Python 3.9 or Python 3.10)
+
+---
