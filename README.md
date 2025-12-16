@@ -1,4 +1,4 @@
-# Explainable AI for Employee Attrition Prediction  
+# Explainable AI for Employee Attrition Prediction: Making HR Analytics Transparent with SHAP and LIME
 **Making HR Analytics Transparent with SHAP and LIME**
 
 ---
